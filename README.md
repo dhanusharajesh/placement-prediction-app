@@ -43,9 +43,9 @@ pip install streamlit numpy
 streamlit run app.py
 
 🧠 Machine Learning Model
-Model trained on student academic and skill-based features
-Uses classification to predict placement outcome
-Saved using Pickle (.pkl) for deployment
+- Model trained on student academic and skill-based features
+- Uses classification to predict placement outcome
+- Saved using Pickle (.pkl) for deployment
 
 👩‍💻 Author
 Dhanusha
